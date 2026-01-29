@@ -1,2 +1,2 @@
-# mcp-security-test-repo
-MCP Security Test Repository - Used for testing path validation, file reading, and GitHub tool behavior
+MCP Security Test Repository
+This repo is used for testing path validation, file reading, and GitHub tool behavior.
